@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **machine learning and AI projects**
 
 <h3 align="left">Connect with me:</h3>
+<p "">
 <p align="left">
 </p>
 

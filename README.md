@@ -27,9 +27,9 @@
       <td width="60%" valign="top">
         <h3 align="left">Project Name: FlowState</h3>
         <p align="left">
-          <strong>Description:</strong> Developing a high-performance <strong>Agentic AI</strong> tool designed for 
-          Web-based API Endpoint Analytics for Team sharing and Collaboration. 
-          This project focuses on RAG logic and seamless integration with existing cloud workflows.
+          <strong>Description:</strong> Developing a high-performance <strong>Web-app</strong> designed for 
+          API Endpoint Analytics for Team sharing and Collaboration. 
+          This project focuses on <strong>RAG logic</strong> and seamless integration with existing cloud workflows.
         </p>
         <p align="left">
           <img src="https://img.shields.io/badge/Status-Development-orange?style=flat-square" alt="Status" />

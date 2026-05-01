@@ -118,6 +118,7 @@
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR_LINKEDIN_ID]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:[YOUR_EMAIL]" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/viswasreddy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:viswasreddy1804@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.viswasreddy.com" target="blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-121013?style=flat-square&logo=googlechrome&logoColor=white" alt="website" /></a>
 </p>

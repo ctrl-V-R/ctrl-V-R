@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Viswas!</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ctrl-v-r&label=Profile%20views&color=0e75b6&style=flat-square" alt="ctrl-v-r" />
-  <a href="https://[YOUR_WEBSITE_URL]" target="blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-121013?style=flat-square&logo=googlechrome&logoColor=white" alt="website" /></a>
+  <a href="https://www.viswasreddy.com" target="blank"><img src="https://img.shields.io/badge/Visit%20My%20Website-121013?style=flat-square&logo=googlechrome&logoColor=white" alt="website" /></a>
 </p>
 
 <div align="left">
@@ -25,11 +25,11 @@
   <table border="0">
     <tr>
       <td width="60%" valign="top">
-        <h3 align="left">Project Name: [INSERT NAME]</h3>
+        <h3 align="left">Project Name: FlowState</h3>
         <p align="left">
           <strong>Description:</strong> Developing a high-performance <strong>Agentic AI</strong> tool designed for 
-          [INSERT PURPOSE, e.g., autonomous web orchestration / enterprise data extraction]. 
-          This project focuses on self-learning logic and seamless integration with existing cloud workflows.
+          Web-based API Endpoint Analytics for Team sharing and Collaboration. 
+          This project focuses on RAG logic and seamless integration with existing cloud workflows.
         </p>
         <p align="left">
           <img src="https://img.shields.io/badge/Status-Development-orange?style=flat-square" alt="Status" />
@@ -42,15 +42,15 @@
         </div>
       </td>
       <td width="40%" align="center" valign="middle">
-        <a href="https://github.com/ctrl-v-r/[PROJECT_REPO]">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-v-r&repo=[PROJECT_REPO]&theme=vision-glow" alt="Project Card" />
+        <a href="https://github.com/ctrl-v-r/flowstate">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ctrl-v-r&repo=flowstate&theme=vision-glow" alt="Project Card" />
         </a>
       </td>
     </tr>
   </table>
 
   <p align="center">
-    <a href="https://github.com/ctrl-v-r/[PROJECT_REPO]">
+    <a href="https://github.com/ctrl-v-r/flowstate">
       <img src="https://img.shields.io/badge/View_Repository-121013?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
@@ -110,11 +110,11 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctrl-v-r&show_icons=true&locale=en&layout=compact&theme=vision-glow" alt="ctrl-v-r" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ctrl-v-r&show_icons=true&locale=en&theme=vision-glow" alt="ctrl-v-r" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-v-r&theme=react&hide_border=true" alt="ctrl-v-r streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ctrl-v-r&theme=dracula&no-frame=true&margin-w=15" alt="github trophy" />
+  </a>
 </p>
-
----
 
 ### 🤝 Connect with me
 <p align="left">
